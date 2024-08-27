@@ -6,6 +6,7 @@ In other words, we need to ask the user whether they added a new series after cr
 Sample Data
 
 ![unnamed](https://github.com/user-attachments/assets/66282d66-edfa-4990-abdd-4c3889d0bdb0)
+
 Then perform the required operations below.
 
 Create a new list from the comedy series in your first list. This list should only include Series Name / Series Type / Director information (In other words, you need another class.)
